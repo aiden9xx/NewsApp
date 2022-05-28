@@ -27,4 +27,4 @@ An Android app showing the Articles from NewsApi.org
 ![app](https://i.ibb.co/hMvm65j/news2.png)
 ![app](https://i.ibb.co/k0syMqz/news3.png)
 
-11
+
