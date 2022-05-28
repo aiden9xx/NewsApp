@@ -75,6 +75,7 @@ class ArticlesFragment : Fragment(R.layout.fragment_articles) {
      * Initialize recyclerview
      */
     private fun initView() {
+        binding.lnHeader.imvBack.visibility = View.GONE
         binding.run {
             rvRecyclerview.adapter = adapter
             swRefresh.setOnRefreshListener { getArticles() }
