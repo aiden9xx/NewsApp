@@ -20,6 +20,10 @@ class DetailFragment : Fragment(R.layout.fragment_detail) {
         content?.let {
             showArticleDetail(it)
         }
+
+        binding.lnHeader.imvBack.setOnClickListener {
+            activity?.onBackPressed()
+        }
     }
 
     private fun showArticleDetail(article: Article) {
