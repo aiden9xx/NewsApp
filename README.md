@@ -28,5 +28,3 @@ An Android app showing the Articles from NewsApi.org
 ![app](https://i.ibb.co/k0syMqz/news3.png)
 
 
-## Architecture
-![arch500](https://i.ibb.co/fQ2q8cH/news4.png)
